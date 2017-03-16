@@ -1,0 +1,9 @@
+{
+	"credentials": {
+		"host": "127.0.0.1",
+		"port": "5432",
+		"db": "test",
+		"user": "test",
+		"password": "test123"
+	}
+}
